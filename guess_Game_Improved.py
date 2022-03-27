@@ -2,7 +2,7 @@
 
 # Created by Peter Gemmell
 # Created on March 2022
-# This program calculates the circumference of a circle using constants
+# This program checks to see if the number guessed is the random number
 
 import random
 
