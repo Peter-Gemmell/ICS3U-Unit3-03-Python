@@ -18,12 +18,12 @@ def main():
     # process & output
     if guess_Number == mystery_Number:
         print("You guessed correctly!")
-        
+
     else:
         print("You guessed incorrectly. Try again.")
         print("")
         print("The correct number was: {} ".format(mystery_Number))
-        
+
     print("\nDone.")
 
 
